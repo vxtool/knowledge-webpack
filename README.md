@@ -1,7 +1,11 @@
 # Webpack
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/knowledge-solutions/knowledge-webpack.svg?style=flat-square)](https://github.com/knowledge-solutions/knowledge-webpack/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-webpack.svg)](https://github.com/org-victorinox/knowledge-webpack/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-webpack.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-webpack.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-webpack.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-webpack/total.svg)
 
 ## Practice
 
@@ -21,7 +25,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/knowledge-solutions/knowledge-webpack/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-webpack/releases) for detailed changelog.
 
 ## License
 
